@@ -27,7 +27,7 @@ This project analyzes online job postings to find the most in-demand Big Data te
 ### Tools & Technologies
 
 - Language : Python(Jupyter Notebook)
-- Libraries : Pandas, NumPy – Data analysis and processing and Matplotlib, Seaborn, WordCloud – Data visualization
+- Libraries : Pandas, NumPy – Data analysis & processing and Matplotlib, Seaborn, WordCloud – Data visualization
 - Dataset source : Kaggle Dataset
 - IDE : Jupyter Notebook
 
