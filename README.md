@@ -44,6 +44,6 @@ This project provides a clear, data-driven overview of the Big Data job market, 
 
 ### Future Enhancements 
 
-. Connect with live job APIs (e.g., LinkedIn, Indeed) for real-time trend updates.
-. Build an interactive dashboard using Streamlit or Power BI.
-. Include NLP-based job title and skill clustering for deeper insights.
+1. Connect with live job APIs (e.g., LinkedIn, Indeed) for real-time trend updates.
+2. Build an interactive dashboard using Streamlit or Power BI.
+3. Include NLP-based job title and skill clustering for deeper insights.
