@@ -4,18 +4,13 @@
 
 This project analyzes online job postings to find the most in-demand Big Data technologies and skills. Using a Kaggle dataset, it identifies popular job roles, top hiring locations, and trending tools like Hadoop, Spark, and Hive. The goal is to help HR professionals and job seekers understand current job market trends in the Big Data field.
 
+###Key Highlights
 
-🔍 Key Highlights
-
-Analyzes real-world job posting data from Kaggle
-
-Identifies high-demand Big Data technologies (Hadoop, Spark, Hive, etc.)
-
-Visualizes top job roles, hiring locations, and company ratings
-
-Generates word clouds to highlight frequently mentioned job skills
-
-Provides insights to help HR teams design better job descriptions
+1. Analyzes real-world job posting data from Kaggle
+2. Identifies high-demand Big Data technologies (Hadoop, Spark, Hive, etc.)
+3. Visualizes top job roles, hiring locations, and company ratings
+4. Generates word clouds to highlight frequently mentioned job skills
+5. Provides insights to help HR teams design better job descriptions
 
 ⚙️ Tools & Technologies
 
