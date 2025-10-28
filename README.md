@@ -1,6 +1,6 @@
-# Big-data-job-analysis
+#### Big-data-job-analysis
 Analysis of online job postings to identify high-demand Big Data technologies and skills using Python and data visualization.
-🧠 Big Data Job Analysis
+###🧠 Big Data Job Analysis
 
 This project focuses on analyzing a large dataset of online job postings to identify in-demand Big Data technologies and skills. With the growing use of Big Data across industries, numerous tools and frameworks like Hadoop, Spark, and Hive have emerged, making it challenging for professionals and HR teams to understand which technologies are most valuable in the job market.
 
