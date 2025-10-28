@@ -14,10 +14,10 @@ This project analyzes online job postings to find the most in-demand Big Data te
 
 ### Tools & Technologies
 
-1. Language : Python(Jupyter Notebook)
-2. Libraries : Pandas, NumPy – Data analysis and processing and Matplotlib, Seaborn, WordCloud – Data visualization
-3. Dataset source : Kaggle Dataset
-4. IDE : Jupyter Notebook
+- Language : Python(Jupyter Notebook)
+- Libraries : Pandas, NumPy – Data analysis and processing and Matplotlib, Seaborn, WordCloud – Data visualization
+- Dataset source : Kaggle Dataset
+- IDE : Jupyter Notebook
 
 
 ### Project Workflow
@@ -44,6 +44,6 @@ This project provides a clear, data-driven overview of the Big Data job market, 
 
 ### Future Enhancements 
 
-1. Connect with live job APIs (e.g., LinkedIn, Indeed) for real-time trend updates.
-2. Build an interactive dashboard using Streamlit or Power BI.
-3. Include NLP-based job title and skill clustering for deeper insights.
+-  Connect with live job APIs (e.g., LinkedIn, Indeed) for real-time trend updates.
+-  Build an interactive dashboard using Streamlit or Power BI.
+-  Include NLP-based job title and skill clustering for deeper insights.
