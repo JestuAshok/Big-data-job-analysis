@@ -12,6 +12,7 @@
 - [Future Enhancements](#Future-Enhancements)
 
 ### 💻Project Overview
+---
 
 This project analyzes online job postings to find the most in-demand Big Data technologies and skills. Using a Kaggle dataset, it identifies popular job roles, top hiring locations, and trending tools like Hadoop, Spark, and Hive. The goal is to help HR professionals and job seekers understand current job market trends in the Big Data field.
 
