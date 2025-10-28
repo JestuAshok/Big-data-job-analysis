@@ -1,7 +1,7 @@
-# Big Data Job Analysis
+# 🧠Big Data Job Analysis
 
 
-### Table of Contents 
+### 📔Table of Contents 
 
 - [Project Overview](#Project-Overview)
 - [Key Highlights](#Key-Highlights)
@@ -11,11 +11,11 @@
 - [Conclusion](#Conclusion)
 - [Future Enhancements](#Future-Enhancements)
 
-### Project Overview
+### 💻Project Overview
 
 This project analyzes online job postings to find the most in-demand Big Data technologies and skills. Using a Kaggle dataset, it identifies popular job roles, top hiring locations, and trending tools like Hadoop, Spark, and Hive. The goal is to help HR professionals and job seekers understand current job market trends in the Big Data field.
 
-### Key Highlights
+### 🔆Key Highlights
 
 1. Analyzes real-world job posting data from Kaggle
 2. Identifies high-demand Big Data technologies (Hadoop, Spark, Hive, etc.)
