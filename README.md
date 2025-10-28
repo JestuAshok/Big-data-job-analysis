@@ -1,4 +1,4 @@
-#🧠 Big Data Job Analysis
+# Big Data Job Analysis
 
 ### Project Overview
 
